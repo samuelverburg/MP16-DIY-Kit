@@ -31,4 +31,5 @@ Check out the manual to see how the MP-16 firmware works.
 # Contributing
 The PATS MP-16 firmware is still a work in progress and there's many other functions I'd like to add.
 If you feel like contributing to this project, please feel free to do so.
+Check out the firmware written by @giusmarci: (https://github.com/giusmarci/MP16-CHORDMAKER-V2)
 If you want to PATS MP-16 DIY kit yourself, shoot me a message over on the [PATS audio Instagram](https://www.instagram.com/patsaudio/).
