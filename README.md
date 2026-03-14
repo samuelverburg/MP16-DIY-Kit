@@ -1,5 +1,5 @@
 # PATS MP-16 DIY kit
-This is the main repository for the PATS audio MP-16 DIY kit. Check out PATS audio here: patsaudio.com
+This is the main repository for the PATS audio MP-16 DIY kit. Check out PATS audio here: [patsaudio.com](https://patsaudio.com/)
 
 ![https://github.com/samuelverburg/MP16-DIY-Kit/blob/main/PATS%20MP-16%20layout.png](https://github.com/samuelverburg/MP16-DIY-Kit/blob/main/PATS%20MP-16%20layout.png?raw=true)
 
