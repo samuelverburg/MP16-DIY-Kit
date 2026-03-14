@@ -1,6 +1,8 @@
 # PATS MP-16 DIY kit
 This is the main repository for the PATS audio MP-16 DIY kit. Check out PATS audio here: patsaudio.com
 
+[https://github.com/samuelverburg/MP16-DIY-Kit/blob/main/PATS%20MP-16%20layout.png](https://github.com/samuelverburg/MP16-DIY-Kit/blob/main/PATS%20MP-16%20layout.png?raw=true)
+
 You can find the manual to the PATS MP-16 DIY kit here: https://docs.google.com/document/d/1Koq2ymRy1WZg_HTG9N3nUoAihR9oNaCTS2vanQYqxgY/
 The manual has 3D printing and assembly instructions, as well as a description of how the main chord player firmware works.
 
