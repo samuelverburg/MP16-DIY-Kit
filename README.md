@@ -5,6 +5,7 @@ This is the main repository for the PATS audio MP-16 DIY kit. Check out PATS aud
 
 You can find the manual to the PATS MP-16 DIY kit here: https://docs.google.com/document/d/1Koq2ymRy1WZg_HTG9N3nUoAihR9oNaCTS2vanQYqxgY/
 The manual has 3D printing and assembly instructions, as well as a description of how the main chord player firmware works.
+
 Check out the alternative firmware written by [@giusmarci](https://github.com/giusmarci/): [MP-16 Chordmaker V2](https://github.com/giusmarci/MP16-CHORDMAKER-V2)
 
 # Dependencies
